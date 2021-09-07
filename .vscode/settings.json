@@ -1,0 +1,7 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "sassFormat.useSingleQuotes": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+}

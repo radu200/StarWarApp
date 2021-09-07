@@ -1,0 +1,14 @@
+@import '../../styles/main.scss';
+
+.container_cards {
+  min-height: 50vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 1024px) {
+  .container_cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
